@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "Eat You Alive",
+  "base_artist": "Limp Bizkit",
+  "createdAt": "2026-03-16T07:24:45.034638Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Eat You Alive",
+      "artist": "Limp Bizkit",
+      "has_synced": true,
+      "path": "select/01_Eat_You_Alive_Limp_Bizkit.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Eat You Alive",
+      "artist": "Limp Bizkit",
+      "has_synced": true,
+      "path": "select/02_Eat_You_Alive_Limp_Bizkit.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Eat You Alive",
+      "artist": "Sum 41",
+      "has_synced": true,
+      "path": "select/03_Eat_You_Alive_Sum_41.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Eat You Alive",
+      "artist": "Limp Bizkit",
+      "has_synced": true,
+      "path": "select/04_Eat_You_Alive_Limp_Bizkit.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Eat You Alive",
+      "artist": "Art of Dying",
+      "has_synced": true,
+      "path": "select/05_Eat_You_Alive_Art_of_Dying.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Eat You Alive",
+      "artist": "Emigrate feat. Frank Dellé",
+      "has_synced": true,
+      "path": "select/06_Eat_You_Alive_Emigrate_feat._Frank_Dellé.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Eat You Alive (feat. Frank Dellé)",
+      "artist": "Emigrate",
+      "has_synced": true,
+      "path": "select/07_Eat_You_Alive_(feat._Frank_Dellé)_Emigrate.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Eat You Alive",
+      "artist": "Limp Bizkit",
+      "has_synced": true,
+      "path": "select/08_Eat_You_Alive_Limp_Bizkit.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Will Eat You Alive",
+      "artist": "LostAlone",
+      "has_synced": true,
+      "path": "select/09_Love_Will_Eat_You_Alive_LostAlone.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Eat You Alive",
+      "artist": "Limp Bizkit",
+      "has_synced": true,
+      "path": "select/10_Eat_You_Alive_Limp_Bizkit.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Eat You Alive",
+      "artist": "Limp Bizkit",
+      "has_synced": true,
+      "path": "select/11_Eat_You_Alive_Limp_Bizkit.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Eat You Alive - 2022 Remaster",
+      "artist": "The Oh Hellos",
+      "has_synced": true,
+      "path": "select/12_Eat_You_Alive_-_2022_Remaster_The_Oh_Hellos.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Eat You Alive",
+      "artist": "Lil Wayne feat. Ludacriss",
+      "has_synced": false,
+      "path": "select/13_Eat_You_Alive_Lil_Wayne_feat._Ludacriss.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Eat You Alive",
+      "artist": "Lil Wayne , Ludacris",
+      "has_synced": false,
+      "path": "select/14_Eat_You_Alive_Lil_Wayne_,_Ludacris.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Eat You Alive [Explicit]",
+      "artist": "Limp Bizkit",
+      "has_synced": true,
+      "path": "select/15_Eat_You_Alive_[Explicit]_Limp_Bizkit.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Eat You Alive",
+      "artist": "Limp Bizkit",
+      "has_synced": true,
+      "path": "select/16_Eat_You_Alive_Limp_Bizkit.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Eat You Alive",
+      "artist": "Limp Bizkit",
+      "has_synced": true,
+      "path": "select/17_Eat_You_Alive_Limp_Bizkit.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Eat You Sleeping",
+      "artist": "The Wallflowers",
+      "has_synced": false,
+      "path": "select/18_Eat_You_Sleeping_The_Wallflowers.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Eat You Sleeping",
+      "artist": "Wallflowers, The",
+      "has_synced": false,
+      "path": "select/19_Eat_You_Sleeping_Wallflowers,_The.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "I Wanna Eat You Out",
+      "artist": "GG Allin",
+      "has_synced": true,
+      "path": "select/20_I_Wanna_Eat_You_Out_GG_Allin.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Want to eat you",
+      "artist": "たかやん",
+      "has_synced": true,
+      "path": "select/21_Want_to_eat_you_たかやん.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Eat You Up",
+      "artist": "BoA",
+      "has_synced": true,
+      "path": "select/22_Eat_You_Up_BoA.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Orcs Will Eat You",
+      "artist": "Heather Dale",
+      "has_synced": false,
+      "path": "select/23_Orcs_Will_Eat_You_Heather_Dale.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Dancing Hero (Eat You Up)",
+      "artist": "Yoko Oginome",
+      "has_synced": true,
+      "path": "select/24_Dancing_Hero_(Eat_You_Up)_Yoko_Oginome.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Eat You Alive",
+      "artist": "Limp Bizkit",
+      "has_synced": false,
+      "path": "select/pl_01_Eat_You_Alive_Limp_Bizkit.txt"
+    }
+  ]
+}
